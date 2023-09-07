@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Adam Smith",
+      "email": "adam123@gmail.com",
+      "contact": "836736773",
+      "id": 1
+    },
+    {
+      "name": "Tom Cruise",
+      "email": "tom@gmail.com",
+      "contact": "786646476",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "007",
+      "id": 3
+    },
+    {
+      "name": "Bruce Wane",
+      "email": "batman@email.com",
+      "contact": "93-293-09",
+      "id": 4
+    }
+  ]
+}
